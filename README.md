@@ -9,7 +9,7 @@ Este repositório contém o projeto da disciplina de Modelagem e Programação O
    - `Atividade 2/`: atividade para diagrama de herança
    - `Atividade 3`: atividade para sistema de cadastro da UAST
 - `Projetos/`: Pasta para projetos
-- `MIT License`: Arquivo com a lisença
+- `MIT License`: Arquivo com a licença
 - `README.md`: Este arquivo
 
 ## Atividades
