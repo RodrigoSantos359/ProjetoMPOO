@@ -22,9 +22,9 @@ Este repositório contém o projeto da disciplina de Modelagem e Programação O
 Nesta atividade, você deve criar uma classe para simular um controle de TV. A classe deve permitir alterar o canal, aumentar/diminuir o volume e ligar/desligar a TV.
 
 **Exemplo de Tarefas:**
-1. Criar uma classe `ControleTV` com atributos `canal`, `volume` e `ligada`.
+1. Criar uma classe `TV` com atributos `canal`, `volume` e `ligada`.
 2. Implementar métodos para mudar de canal, aumentar e diminuir o volume, e ligar/desligar a TV.
-3. Testar a criação de objetos da classe `ControleTV` e os métodos implementados.
+3. Testar a criação de objetos da classe `TV` e os métodos implementados.
 
 ### Segunda Atividade: Sistema de Cadastro da UFRPE
 
