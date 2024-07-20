@@ -7,7 +7,7 @@ Este repositório contém o projeto da disciplina de Modelagem e Programação O
 - `Atividas/`: Pasta com as atividades
    - `Atividade 1/`: atividade para modela um controle de TV
    - `Atividade 2/`: atividade para diagrama de herança
-   - `Atividade 3`: atividade para sistema de cadastro da UAST
+   - `Atividade 3/`: atividade para sistema de cadastro da UAST
 - `Projetos/`: Pasta para projetos
 - `MIT License`: Arquivo com a licença
 - `README.md`: Este arquivo
