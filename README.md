@@ -4,10 +4,10 @@ Este repositório contém o projeto da disciplina de Modelagem e Programação O
 
 ## Estrutura do Projeto
 
-- `src/`: Código-fonte do projeto
-- `docs/`: Documentação do projeto
-- `tests/`: Testes unitários
+- `DIAGRAMA/`: segunda atividade
+- `DIAGRAMAURL/`: terceira atividade
 - `README.md`: Este arquivo
+- `PraticaTV`: primeira atividade
 
 ## Atividades
 
